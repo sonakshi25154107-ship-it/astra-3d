@@ -6,11 +6,11 @@ An interactive Streamlit dashboard that loads real close-approach data from NASA
 
 ## Screenshots
 
-![Dashboard](docs/screenshot-dashboard.png)
+![Dashboard](screenshot-dashboard.png)
 
-![3D explorer (schematic)](docs/screenshot-3d.png)
+![3D explorer (schematic)](screenshot-3d.png)
 
-![Analytics](docs/screenshot-analytics.png)
+![Analytics](Screenshot-analytics.png)
 
 ## Features
 
