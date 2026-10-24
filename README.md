@@ -1,5 +1,5 @@
 # ASTRA 3D — Near-Earth Object Intelligence
-
+🔗 **[Live Demo](https://astra-3d-eoffc4eyntfesnba87ru7s.streamlit.app)**
 An interactive Streamlit dashboard that loads real close-approach data from NASA's **Near Earth Object Web Service (NeoWs)**, lets you filter and compare objects, and shows them in a rotatable **schematic** 3D scene.
 
 > **Scientific honesty.** NeoWs does not provide 3D positions for each asteroid. The 3D view is a *schematic layout*, labelled **"SCHEMATIC 3D EXPLORER — NOT TO SCALE; POSITIONS ARE ILLUSTRATIVE"**. It is not an orbit simulator. All real measurements appear in tooltips, charts and tables.
